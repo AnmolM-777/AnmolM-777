@@ -70,14 +70,46 @@ https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
-##  Featured Projects
+##  Featured Projects (with context)
 
-| project | description | tech |
-|--------|-------------|------|
-| **NEXUS** | astronomy club website | react, tailwind, three.js |
-| **Portfolio** | interactive personal site | vite, tailwind |
-| **Matrix Calculator** | deterministic computation engine | C |
-| **Quant Experiments (WIP)** | toy models, backtests, notes | python |
+### 🌌 NEXUS — Astronomy Club Website
+Interactive website for IIT Jodhpur astronomy club.
+- multi-page React app
+- Tailwind-based UI system
+- Three.js space animation elements
+- collaborative Git workflow (PRs, branches)
+
+> goal: build something real that people actually use.
+
+---
+
+### 👤 Interactive Portfolio
+Terminal-style personal website.
+- modular UI components
+- keyboard-driven interactions
+- clean routing + file structure
+- deployed frontend
+
+Live: https://my-portfolio-tech-eight.vercel.app/
+
+---
+
+### 🧮 Matrix Calculator (C)
+Command-line computation engine:
+- addition, transpose, adjoint, inverse
+- structured validation + reusable functions
+- focus on correctness + testing
+
+---
+
+### 📈 Quant Experiments (WIP)
+Small notebooks + experiments:
+- time-series intuition
+- simple backtests
+- readable code + comments
+
+> learning, not trading advice 🙂  
+
 
 ## GitHub Overview
 
