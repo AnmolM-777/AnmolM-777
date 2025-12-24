@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" width="22" />
-</p>
-
-<div align="center">
-anmol@macbook ~ % whoami
-
-anmol mishra
-cs @ iit jodhpur
-quant • bitcoin • open-source • ai/ml
-</div>
 
 <h1 align="center">Hi I'm Anmol</h1>
 <p align="center">
