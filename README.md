@@ -1,180 +1,167 @@
-
-<h1 align="center">Hi I'm Anmol</h1>
+<h1 align="center">Hi, I'm Anmol 👋</h1>
 <p align="center">
-  <em>Computer Science @ IIT Jodhpur • Web & Systems • Quant + Open-Source Learner</em>
+  <em>Computer Science @ IIT Jodhpur • Web & Systems • Quant & Open-Source Enthusiast</em>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I’m a CS undergrad at IIT Jodhpur, exploring how software connects with
-**finance, systems, and real-world engineering**.
+I'm a Computer Science undergraduate at IIT Jodhpur, interested in how  
+**software, finance, and systems engineering intersect.**
 
-Right now I’m actively learning and experimenting with:
+I enjoy building things that are:
 
--  backend & web systems
-- quantitative thinking + financial modeling
-- bitcoin + crypto fundamentals (protocols, not hype)
--  AI / ML basics and practical use-cases
--  open-source collaboration and tooling
+- simple  
+- reliable  
+- actually useful  
 
-Portfolio (interactive):  
+Right now I’m learning and experimenting in:
+
+- backend & web systems
+- quantitative thinking and financial modeling
+- bitcoin / blockchain fundamentals (protocols over hype)
+- practical AI / ML
+- open-source collaboration
+
+Interactive portfolio:  
 https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
-## Focus Areas (what I’m trying to get good at)
+## Focus Areas
 
-###  Quant & Markets
-- basic risk/return models  
-- probability, statistics, time-series intuition  
-- experimenting with small backtests + simulations  
-- writing clean, reproducible code for experiments
+### 📈 Quant & Markets
+- risk/return intuition  
+- probability and statistics  
+- time-series analysis basics  
+- small simulations and backtests  
+- reproducible code and clean experiments  
 
-###  Bitcoin / Blockchain (tech side)
-- how bitcoin actually works (consensus, mempool, UTXO, nodes)
-- reading protocol docs instead of chasing tokens
-- understanding on-chain data and analytics
-- security + transparency concepts
+### ₿ Bitcoin / Blockchain (technical perspective)
+- nodes • mempool • UTXO • consensus
+- protocol design, not trading
+- on-chain data understanding
+- security and transparency principles  
 
-> curious about open-source finance systems that are transparent and verifiable.
+> curious about open, verifiable financial systems.
 
-###  AI / ML
-- ML fundamentals (linear models, regression, intro DL)
-- PyTorch basics
-- practical tools — not just buzzwords
+### 🤖 AI / Machine Learning
+- linear and basic deep learning models
+- PyTorch fundamentals
+- practical ML over buzzwords
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **languages**
-- C, C++
-- JavaScript / TypeScript
-- Python (ML + scripting)
-- Rust (learning)
+C • C++ • JavaScript • TypeScript • Python • Rust (learning)
 
 **web**
-- React • Tailwind • Vite
-- clean UI / component-based design
+React • Tailwind CSS • Vite
 
 **dev tools**
-- Git & GitHub
-- Docker
-- Linux
+Git & GitHub • Linux • Docker
 
-**data / math**
-- probability & statistics
-- matrices, numerical methods
-- time-series intuition
+**math / foundations**
+probability • linear algebra • numerical thinking • time-series basics
 
 ---
 
-##  Featured Projects (with context)
+## Featured Projects
 
 ### 🌌 NEXUS — Astronomy Club Website
-Interactive website for IIT Jodhpur astronomy club.
-- multi-page React app
-- Tailwind-based UI system
-- Three.js space animation elements
-- collaborative Git workflow (PRs, branches)
-
-> goal: build something real that people actually use.
+Official website for the astronomy club at IIT Jodhpur.  
+Built using React, Tailwind, and space-themed UI elements.  
+> Focused on collaboration, clean structure, and maintainability.
 
 ---
 
 ### 👤 Interactive Portfolio
-Terminal-style personal website.
-- modular UI components
-- keyboard-driven interactions
-- clean routing + file structure
-- deployed frontend
+A terminal-style personal portfolio.  
+Features keyboard interactions, modular components, and a minimal UI.
 
 Live: https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
 ### 🧮 Matrix Calculator (C)
-Command-line computation engine:
+Command-line matrix computation tool supporting:
+
 - addition, transpose, adjoint, inverse
-- structured validation + reusable functions
-- focus on correctness + testing
+- reusable functions
+- correctness and validation emphasis
 
 ---
 
-### 📈 Quant Experiments (WIP)
-Small notebooks + experiments:
-- time-series intuition
-- simple backtests
-- readable code + comments
+### 📊 Quant Experiments (WIP)
+A small collection of notebooks exploring:
 
-> learning, not trading advice 🙂  
+- time-series intuition  
+- simple strategies  
+- readable & transparent code  
 
-## 📊 GitHub Overview
+> strictly educational — not financial advice 🙂
+
+---
+
+## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolM-777&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolM-777&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolM-777&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AnmolM-777&theme=tokyonight"
-    alt="GitHub streak"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolM-777&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnmolM-777&theme=tokyonight" />
 </p>
 
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolM-777&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏅 Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnmolM-777)
+![Followers](https://img.shields.io/github/followers/AnmolM-777)
+![Stars](https://img.shields.io/github/stars/AnmolM-777)
+
+---
 
 ## Currently Learning
 
-- structured backend design
+- backend and system design
 - reproducible research workflows
-- reading whitepapers + docs (bitcoin / systems papers)
-- contributing meaningfully to open-source
+- bitcoin and systems whitepapers
+- contributing meaningfully to open-source projects
 
 ---
 
-## Open Source
+## Resume & Portfolio
 
-I’m especially interested in contributing to:
-
-- financial / quant open-source tooling
-- bitcoin / protocol education projects
-- developer tooling and docs
-- ML utilities
-
-If you’re building something cool — I’m happy to help, learn, and collaborate.
-
----
-
-##  Resume + Portfolio
-
-- resume summary: backend + systems + math-leaning
-- hands-on with structured project workflows
-- experience collaborating via PRs, issues, reviews
-
-Portfolio: https://my-portfolio-tech-eight.vercel.app/
-
-(once I upload a public copy here, I’ll add a **Download Resume** button)
+Portfolio  
+https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
 ## Connect
 
-- GitHub: https://github.com/AnmolM-777  
-- LinkedIn: https://www.linkedin.com/in/anmol-mishra-144bab328/
-- Email: anmolindia2006@gmail.com
+GitHub — https://github.com/AnmolM-777  
+LinkedIn — https://www.linkedin.com/in/anmol-mishra-144bab328/  
+Email — anmolindia2006@gmail.com  
 
 ---
 
-<p align="center"><em>build openly. learn honestly. improve continuously.</em></p>
+<p align="center"><em>build openly • learn continuously • stay curious</em></p>
