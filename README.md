@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" width="22" />
+</p>
+
+<div align="center">
+anmol@macbook ~ % whoami
+
+anmol mishra
+cs @ iit jodhpur
+quant • bitcoin • open-source • ai/ml
+</div>
+
 <h1 align="center">Hi I'm Anmol</h1>
 <p align="center">
   <em>Computer Science @ IIT Jodhpur • Web & Systems • Quant + Open-Source Learner</em>
@@ -110,22 +122,29 @@ Small notebooks + experiments:
 
 > learning, not trading advice 🙂  
 
-
-## GitHub Overview
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolM-777&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=AnmolM-777&theme=tokyonight"
+    alt="GitHub streak"
+  />
 </p>
 
----
 
 ## Currently Learning
 
