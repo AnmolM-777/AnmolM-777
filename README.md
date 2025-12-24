@@ -1,37 +1,37 @@
-<h1 align="center">Hi 👋 I'm Anmol</h1>
+<h1 align="center">Hi I'm Anmol</h1>
 <p align="center">
   <em>Computer Science @ IIT Jodhpur • Web & Systems • Quant + Open-Source Learner</em>
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a CS undergrad at IIT Jodhpur, exploring how software connects with
 **finance, systems, and real-world engineering**.
 
 Right now I’m actively learning and experimenting with:
 
-- ⚙️ backend & web systems
-- 📈 quantitative thinking + financial modeling
-- ₿ bitcoin + crypto fundamentals (protocols, not hype)
-- 🧠 AI / ML basics and practical use-cases
-- 🌍 open-source collaboration and tooling
+-  backend & web systems
+- quantitative thinking + financial modeling
+- bitcoin + crypto fundamentals (protocols, not hype)
+-  AI / ML basics and practical use-cases
+-  open-source collaboration and tooling
 
 Portfolio (interactive):  
-👉 https://my-portfolio-tech-eight.vercel.app/
+https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
-## 🚀 Focus Areas (what I’m trying to get good at)
+## Focus Areas (what I’m trying to get good at)
 
-### 🔷 Quant & Markets
+###  Quant & Markets
 - basic risk/return models  
 - probability, statistics, time-series intuition  
 - experimenting with small backtests + simulations  
 - writing clean, reproducible code for experiments
 
-### ₿ Bitcoin / Blockchain (tech side)
+###  Bitcoin / Blockchain (tech side)
 - how bitcoin actually works (consensus, mempool, UTXO, nodes)
 - reading protocol docs instead of chasing tokens
 - understanding on-chain data and analytics
@@ -39,14 +39,14 @@ Portfolio (interactive):
 
 > curious about open-source finance systems that are transparent and verifiable.
 
-### 🤖 AI / ML
+###  AI / ML
 - ML fundamentals (linear models, regression, intro DL)
 - PyTorch basics
 - practical tools — not just buzzwords
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **languages**
 - C, C++
@@ -70,7 +70,7 @@ Portfolio (interactive):
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | project | description | tech |
 |--------|-------------|------|
@@ -79,10 +79,23 @@ Portfolio (interactive):
 | **Matrix Calculator** | deterministic computation engine | C |
 | **Quant Experiments (WIP)** | toy models, backtests, notes | python |
 
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolM-777&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - structured backend design
 - reproducible research workflows
@@ -91,7 +104,7 @@ Portfolio (interactive):
 
 ---
 
-## 🤝 Open Source
+## Open Source
 
 I’m especially interested in contributing to:
 
@@ -104,7 +117,7 @@ If you’re building something cool — I’m happy to help, learn, and collabor
 
 ---
 
-## 📄 Resume + Portfolio
+##  Resume + Portfolio
 
 - resume summary: backend + systems + math-leaning
 - hands-on with structured project workflows
@@ -116,7 +129,7 @@ Portfolio: https://my-portfolio-tech-eight.vercel.app/
 
 ---
 
-## 🔗 Connect
+## Connect
 
 - GitHub: https://github.com/AnmolM-777  
 - LinkedIn: https://www.linkedin.com/in/anmol-mishra-144bab328/
