@@ -1,167 +1,99 @@
-<h1 align="center">Hi, I'm Anmol 👋</h1>
-<p align="center">
-  <em>Computer Science @ IIT Jodhpur • Web & Systems • Quant & Open-Source Enthusiast</em>
-</p>
+# 🔥 Featured Projects
+
+(ordered for recruiter readability)
 
 ---
 
-## About Me
+### 🔐 SSO IITJ — Single Sign-On Platform  
+**Frontend:** https://github.com/AnmolM-777/sso_frontend  
+**Backend:** https://github.com/AnmolM-777/sso_backend
 
-I'm a Computer Science undergraduate at IIT Jodhpur, interested in how  
-**software, finance, and systems engineering intersect.**
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-green)
+![Auth](https://img.shields.io/badge/-Authentication-blue)
+![JWT](https://img.shields.io/badge/-JWT-orange)
 
-I enjoy building things that are:
+**What it is:** A secure SSO system integrating multiple services for IIT Jodhpur.
 
-- simple  
-- reliable  
-- actually useful  
-
-Right now I’m learning and experimenting in:
-
-- backend & web systems
-- quantitative thinking and financial modeling
-- bitcoin / blockchain fundamentals (protocols over hype)
-- practical AI / ML
-- open-source collaboration
-
-Interactive portfolio:  
-https://my-portfolio-tech-eight.vercel.app/
+**Impact**
+- unified login experience across IITJ services  
+- reduces duplicate login overhead  
+- implemented token-based auth with clear separation of concerns
 
 ---
 
-## Focus Areas
+### 🏛 IITJ Senate Portal  
+**Repo:** https://github.com/AnmolM-777/iitjsenateportal
 
-### 📈 Quant & Markets
-- risk/return intuition  
-- probability and statistics  
-- time-series analysis basics  
-- small simulations and backtests  
-- reproducible code and clean experiments  
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC)
+![WebApp](https://img.shields.io/badge/-Web%20Portal-purple)
 
-### ₿ Bitcoin / Blockchain (technical perspective)
-- nodes • mempool • UTXO • consensus
-- protocol design, not trading
-- on-chain data understanding
-- security and transparency principles  
+**What it is:** A portal supporting institutional workflows and academic processes.
 
-> curious about open, verifiable financial systems.
-
-### 🤖 AI / Machine Learning
-- linear and basic deep learning models
-- PyTorch fundamentals
-- practical ML over buzzwords
+**Impact**
+- real users with real constraints  
+- enhanced collaboration via GitHub PR workflow  
+- strengthened UI + backend integration skills
 
 ---
 
-## Tech Stack
+### 🌌 NEXUS — Astronomy Club Website  
+**Repo:** https://github.com/AnmolM-777/NEXUS_IITJ
 
-**languages**
-C • C++ • JavaScript • TypeScript • Python • Rust (learning)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Threejs](https://img.shields.io/badge/-Three.js-black)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC)
 
-**web**
-React • Tailwind CSS • Vite
+**What it is:** Official astronomy club website built with engaging UI.
 
-**dev tools**
-Git & GitHub • Linux • Docker
-
-**math / foundations**
-probability • linear algebra • numerical thinking • time-series basics
-
----
-
-## Featured Projects
-
-### 🌌 NEXUS — Astronomy Club Website
-Official website for the astronomy club at IIT Jodhpur.  
-Built using React, Tailwind, and space-themed UI elements.  
-> Focused on collaboration, clean structure, and maintainability.
+**Impact**
+- improved club outreach  
+- modular codebase for future expansion  
+- hands-on collaboration experience
 
 ---
 
-### 👤 Interactive Portfolio
-A terminal-style personal portfolio.  
-Features keyboard interactions, modular components, and a minimal UI.
+### 📉 Quant Enthusiasts — Risk Engine  
+**Repo:** https://github.com/AnmolM-777/Quant-Enthusiasts-Risk-Engine
 
-Live: https://my-portfolio-tech-eight.vercel.app/
+![C++](https://img.shields.io/badge/-C++-00599C)
+![Quant](https://img.shields.io/badge/-Quantitative%20Finance-0A192F)
+![Algorithms](https://img.shields.io/badge/-Algorithms-orange)
 
----
+**What it is:** A quantitative computation engine exploring risk concepts.
 
-### 🧮 Matrix Calculator (C)
-Command-line matrix computation tool supporting:
-
-- addition, transpose, adjoint, inverse
-- reusable functions
-- correctness and validation emphasis
-
----
-
-### 📊 Quant Experiments (WIP)
-A small collection of notebooks exploring:
-
-- time-series intuition  
-- simple strategies  
-- readable & transparent code  
-
-> strictly educational — not financial advice 🙂
+**Impact**
+- strengthened algorithmic design  
+- increased comfort with finance-oriented calculations  
+- bridges CS knowledge with quantitative finance goals
 
 ---
 
-## 📊 GitHub Summary Cards
+### 🧮 Matrix Calculator (C)  
+**Repo:** https://github.com/AnmolM-777/Matrix-Calculator
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolM-777&theme=tokyonight" />
-</p>
+![C](https://img.shields.io/badge/-C-00599C)
+![Math](https://img.shields.io/badge/-Linear%20Algebra-blue)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolM-777&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolM-777&theme=tokyonight" />
-</p>
+**What it is:** CLI matrix computation tool.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolM-777&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnmolM-777&theme=tokyonight" />
-</p>
+**Impact**
+- core programming foundations  
+- reusable function design  
+- focus on correctness and testing
 
 ---
 
-## 📈 Activity Graph
+### 💻 DSA Repository  
+**Repo:** https://github.com/AnmolM-777/DSA
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolM-777&theme=tokyo-night" />
-</p>
+![DSA](https://img.shields.io/badge/-Data%20Structures-red)
+![Algorithms](https://img.shields.io/badge/-Algorithms-orange)
 
----
+**What it is:** Structured data structures & algorithms practice repository.
 
-## 🏅 Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnmolM-777)
-![Followers](https://img.shields.io/github/followers/AnmolM-777)
-![Stars](https://img.shields.io/github/stars/AnmolM-777)
-
----
-
-## Currently Learning
-
-- backend and system design
-- reproducible research workflows
-- bitcoin and systems whitepapers
-- contributing meaningfully to open-source projects
-
----
-
-## Resume & Portfolio
-
-Portfolio  
-https://my-portfolio-tech-eight.vercel.app/
-
----
-
-## Connect
-
-GitHub — https://github.com/AnmolM-777  
-LinkedIn — https://www.linkedin.com/in/anmol-mishra-144bab328/  
-Email — anmolindia2006@gmail.com  
-
----
-
-<p align="center"><em>build openly • learn continuously • stay curious</em></p>
+**Impact**
+- consistent problem-solving practice  
+- clear explanations and organized layout  
+- improved thinking on complexity and patterns
