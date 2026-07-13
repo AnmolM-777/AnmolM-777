@@ -1,105 +1,84 @@
-# Hi, I'm Anmol 👋
-
-**`Computer Science @ IIT Jodhpur • Backend & Systems • Quant & Open-Source`**
-
-I'm a Computer Science undergraduate at IIT Jodhpur interested in how software, finance, and systems engineering intersect.  
-I like building things that are: **✔ simple** **✔ reliable** **✔ actually useful**
-
-> *build openly • learn continuously • stay curious*
+# Anmol Mishra
+**Computer Science and Engineering | Indian Institute of Technology Jodhpur**  
+*Specializations: Backend Systems Architecture · Quantitative Modeling · Distributed Ledger Protocols*
 
 ---
 
-### 🔭 Currently Exploring
+## Technical Profile
+Analytical and systems-focused Computer Science undergraduate at IIT Jodhpur. Experienced in designing high-throughput backend architectures, developing quantitative risk engines, and contributing to open-source cryptographic and consensus protocols. Focus lies in building deterministic, low-latency, and structurally sound systems.
 
-- Backend & web systems architecture
-- Quantitative thinking + financial modeling
-- Bitcoin / blockchain fundamentals (protocols > hype)
-- Practical AI / ML pipelines
-- Contributing to open-source ecosystems
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
-| **Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Domains** | `Quant Modeling` `Time-Series` `Blockchain/UTXO` `On-chain Analytics` `ML/DL (PyTorch)` `Distributed Systems` |
+### Core Architecture Competencies
+* **Systems & Backend:** High-performance systems engineering, microservices integration, token-based distributed authentication protocols.
+* **Quantitative Finance:** Time-series analysis, statistical volatility modeling, stochastic simulations (Monte Carlo), risk-adjusted return profiling.
+* **Distributed Systems:** Consensus mechanism analysis, UTXO transaction accounting state validation, on-chain data parsing.
 
 ---
 
-### 🚀 Featured Projects
+## Quantitative & Technical Stack
 
-<table>
-<tr>
-<td width="50%">
-
-**🔐 SSO IITJ — Single Sign-On Platform**  
-Enterprise SSO system integrating IIT Jodhpur services with token-based authentication.  
-[`frontend`](https://github.com/AnmolM-777/sso_frontend) · [`backend`](https://github.com/AnmolM-777/sso_backend)
-
-</td>
-<td width="50%">
-
-**🌌 Spac3D — 3D Room Reorganizer**  
-Photo → 3D reconstruction with depth estimation, NLP furniture generation, and Three.js rendering.  
-[`source`](https://github.com/AnmolM-777/Spac3D)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏛 IITJ Senate Portal**  
-Full-featured portal for institutional & academic workflows. Collaborative PR-driven development.  
-[`source`](https://github.com/AnmolM-777/iitjsenateportal)
-
-</td>
-<td width="50%">
-
-**🪙 Crypto Wallet Analyzer**  
-On-chain analytics tool analyzing transaction patterns, portfolio composition, and risk metrics.  
-[`source`](https://github.com/AnmolM-777/crypto-wallet-analyzer)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📉 Quant Risk Engine**  
-Risk/return models, Monte Carlo simulations, and statistical analysis for financial decision-making.  
-[`source`](https://github.com/AnmolM-777/Quant-Enthusiasts-Risk-Engine)
-
-</td>
-<td width="50%">
-
-**₿ Bitcoin Core**  
-Contributor to Bitcoin Core — studying UTXO model, mempool, consensus mechanisms.  
-[`fork`](https://github.com/AnmolM-777/bitcoin)
-
-</td>
-</tr>
-</table>
+| Domain | Engineering & Analytical Tooling |
+| :--- | :--- |
+| **Systems & Core Languages** | C, C++, Rust, Python, Go |
+| **Web Architecture & Automation** | TypeScript, JavaScript, React, Tailwind CSS, Vite |
+| **Infrastructure & DevOps** | Linux Systems Administration, Git Version Control, Docker Containerization |
+| **Advanced Paradigms** | Quantitative Risk Engines, Volatility-Weighted Modeling, Distributed Ledgers, PyTorch Pipeline Design |
 
 ---
 
-### 📊 GitHub Stats
+## Featured Engineering & Quantitative Projects
 
+###  Enterprise Single Sign-On (SSO) Platform
+*Distributed Authentication Infrastructure*
+* Designed and deployed an institutional Single Sign-On system scaling across university-wide operational microservices.
+* Implemented strict token-based state authorization mechanisms to eliminate cross-domain authentication overhead.
+* **Repositories:** [`Core Frontend Engine`](https://github.com/AnmolM-777/sso_frontend) · [`Core Backend Architecture`](https://github.com/AnmolM-777/sso_backend)
+
+###  Production-Scale Quantitative Risk Engine
+*Mathematical Modeling & Portfolio Analytics*
+* Engineered a statistical framework calculating risk-return optimization variables and portfolio drawdown boundaries.
+* Utilized predictive Monte Carlo simulations and heavy-tailed distribution profiles to test asset allocation strategies under historical stress vectors.
+* **Repository:** [`Quant-Enthusiasts-Risk-Engine`](https://github.com/AnmolM-777/Quant-Enthusiasts-Risk-Engine)
+
+###  Open-Source Core Ledger Contributions
+*Protocol-Level Consensus and Mempool Engineering*
+* Active contributor to the core implementation layer of decentralized consensus networks.
+* Conducted deep optimization evaluations focused on block-relay latencies, mempool transaction validation speeds, and the mechanical lifecycle optimization of UTXO scripts.
+* **Repository:** [`Bitcoin Protocol Core Fork`](https://github.com/AnmolM-777/bitcoin)
+
+###  Spac3D: Spatial Reconstruction Pipeline
+*Computer Vision & Three-Dimensional Rendering*
+* Developed an end-to-end operational pipeline transforming monocular image arrays into spatial 3D environments using depth-estimation algorithms.
+* Coupled NLP semantic parsing modules with dynamic Three.js rendering pipelines to programmatic construct virtual geometry dynamically.
+* **Repository:** [`Spac3D Architecture`](https://github.com/AnmolM-777/Spac3D)
+
+###  Algorithmic On-Chain Wallet Analyzer
+*High-Throughput Financial Data Parsers*
+* Built an analytical engine targeting public ledger networks to compute precise risk profiles and distribution statistics for high-frequency transactional addresses.
+* Programmed asynchronous data parsers capable of converting raw transaction streams into structured multi-variable time-series metrics.
+* **Repository:** [`Crypto Wallet Analyzer`](https://github.com/AnmolM-777/crypto-wallet-analyzer)
+
+### Institutional Operations Workflow Portal
+*Collaborative Distributed Governance Platform*
+* Orchestrated a scalable web gateway designed to track, audit, and approve high-level academic administrative workflows.
+* Developed using rigorous CI/CD validation patterns within a collaborative, peer-reviewed, multi-branch production environment.
+* **Repository:** [`IITJ Senate Portal Source`](https://github.com/AnmolM-777/iitjsenateportal)
+
+---
+
+## Analytics & Operational Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00ff41&icon_color=00ff41&text_color=e0e0e0&border_color=1a1a28&hide_border=false" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=dark&bg_color=0a0a0f&title_color=00ff41&text_color=e0e0e0&border_color=1a1a28&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnmolM-777&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00ff41&icon_color=00ff41&text_color=e0e0e0&border_color=1a1a28&hide_border=false" alt="Core Repository Evaluation Metrics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolM-777&layout=compact&theme=dark&bg_color=0a0a0f&title_color=00ff41&text_color=e0e0e0&border_color=1a1a28&hide_border=false" alt="Language Distribution Analytics" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolM-777&theme=dark&background=0a0a0f&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=1a1a28" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolM-777&theme=dark&background=0a0a0f&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=1a1a28" alt="Development Consistency Timeline Analytics" />
 </p>
 
 ---
 
-### 📬 Connect
+## Professional Communication Vectors
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--portfolio-00ff41?style=for-the-badge&labelColor=0a0a0f)](https://my-portfolio-tech-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anmol--mishra-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmol-mishra-144bab328/)
-[![Email](https://img.shields.io/badge/Email-anmolindia2006-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolindia2006@gmail.com)
+* **Enterprise Network:** [linkedin.com/in/anmol-mishra](https://www.linkedin.com/in/anmol-mishra-144bab328/)
+* **Secure Electronic Mail:** [anmolindia2006@gmail.com](mailto:anmolindia2006@gmail.com)
+* **Digital Terminal:** [my-portfolio-tech-eight.vercel.app](https://my-portfolio-tech-eight.vercel.app/)
